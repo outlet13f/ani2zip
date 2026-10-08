@@ -1,0 +1,2 @@
+yt-dlp>=2025.1.1
+pycryptodomex  # HLS AES-128 복호화 가속 (없으면 매우 느림)

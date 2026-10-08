@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# 사용자별 로컬 상태 (실행 시 생성)
+settings.json
+queue.json
+downloads/
